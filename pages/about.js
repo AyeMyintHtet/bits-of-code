@@ -23,7 +23,7 @@ function about({ topics }) {
         <h2 className="text-3xl font-semibold text-gray-700 py-4 dark:text-gray-200">
           Hi,{" "}
           <span className="bg-indigo-400 text-white rounded px-1 dark:bg-indigo-500">
-            I’m Soumyajit
+            I’m Aye Myint Htet
           </span>{" "}
           . Nice to meet you.
         </h2>
@@ -40,23 +40,23 @@ function about({ topics }) {
             <a
               rel="noopener noreferrer"
               target="_blank"
-              href="https://soumyajit.vercel.app/"
+              href="https://amh-portfolio.vercel.app/"
             >
               See My Works
             </a>
           </button>
 
-          <button className="bg-indigo-500 px-3 py-1 font-semibold text-white inline-flex items-center space-x-2 rounded ml-3 dark:bg-indigo-600">
+          {/* <button className="bg-indigo-500 px-3 py-1 font-semibold text-white inline-flex items-center space-x-2 rounded ml-3 dark:bg-indigo-600">
             <FaTwitter />
             <a
               className="twitter-follow-button"
               rel="noopener noreferrer"
               target="_blank"
-              href="https://twitter.com/soumyajit4419"
+              href="https://twitter.com/Aye Myint Htet4419"
             >
               Follow Me
             </a>
-          </button>
+          </button> */}
         </div>
       </div>
       <Footer />
